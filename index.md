@@ -1,2 +1,0 @@
-
-- [example-slidev](./example-slidev)
